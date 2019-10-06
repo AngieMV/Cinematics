@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-public class MonstersSignalsReceiver : MonoBehaviour
+public class SignalsReceiver : MonoBehaviour
 {
     private Animator animator;
 
